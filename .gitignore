@@ -1,0 +1,19 @@
+# Ignore node_modules folders (Node.js dependencies)
+node_modules/
+
+# Ignore local environment secret files
+.env
+*.env.local
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code project settings
+.vscode/
+
+# Ignore Python virtual environments
+.venv/
