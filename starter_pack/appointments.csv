@@ -1,0 +1,4 @@
+patient_ref,date,category,cost
+PT-011,2026-08-21,Pharmacy,25.00
+PT-001,2026-07-31,Diagnostics,130.00
+PT-003,2026-07-30,Diagnostics,12.00

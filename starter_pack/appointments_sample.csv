@@ -1,0 +1,8 @@
+patient_ref,date,category,cost
+PT-001,2026-08-03,Consultation,120.00
+PT-002,2026-08-03,Diagnostics,340.50
+PT-001,2026-08-10,Follow-up,60.00
+PT-003,2026-08-11,Procedure,890.00
+PT-004,2026-08-11,Pharmacy,15.25
+PT-002,2026-08-12,Consultation,120.00
+PT-005,2026-08-12,Diagnostics,210.00
