@@ -17,3 +17,4 @@ Thumbs.db
 
 # Ignore Python virtual environments
 .venv/
+.venv311/
