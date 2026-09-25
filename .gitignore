@@ -1,10 +1,10 @@
 # Ignore node_modules folders (Node.js dependencies)
 node_modules/
-
+prompt_store/
 # Ignore local environment secret files
 .env
 *.env.local
-
+config.json
 # Ignore log files
 *.log
 *.zip
